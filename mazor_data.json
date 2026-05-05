@@ -165,11 +165,11 @@
         "payCode": ""
       }
     ],
-    "paymentLink": "https://meshulam.co.il/quick_payment?b=ea0409ec141da5bc1f4fa78ee45b1437",
+  
     "paymentName": "",
     "paymentInstructions": "סרוק לתשלום",
     "bitActive": true,
-    "bitLink": "https://meshulam.co.il/quick_payment?b=ea0409ec141da5bc1f4fa78ee45b1437",
+    
     "payboxActive": false,
     "payboxLink": "",
     "bankActive": false,
